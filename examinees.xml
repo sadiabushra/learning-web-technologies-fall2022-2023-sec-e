@@ -1,0 +1,16 @@
+<examinees>
+  <examinee id="23">
+    <name>John Carter</name>
+    <admissionDate>25/12/2015</admissionDate>
+  </examinee>
+
+  <examinee id="29">
+    <name>Bob Marshal</name>
+    <admissionDate>13/01/1999</admissionDate>
+  </examinee>
+
+  <examinee id="35">
+    <name>Clark Kent</name>
+    <admissionDate>17/06/2005</admissionDate>
+  </examinee>
+</examinees>
