@@ -1,11 +1,11 @@
 <html>
   <head>
-    <title>Add Product</title>
+    <title>Edit Product</title>
   </head>
   <body>
-    <form action="addProductDB.php" method="post" enctype="multipart/form-data" style="padding: 80px; width: 400px"> 
+    <form action="editProductDB.php" method="post" enctype="multipart/form-data" style="padding: 80px; width: 400px" > 
       <fieldset style="padding: 40px">
-        <legend>ADD PRODUCT</legend>
+        <legend>EDIT PRODUCT</legend>
         <table>
           <tr>
             <label for="name">Name <br></label>
@@ -29,7 +29,6 @@
           </tr>
         </table>
       </fieldset>
-
     </form>
   </body>
 </html>
